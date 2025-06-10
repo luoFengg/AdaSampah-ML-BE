@@ -1,430 +1,430 @@
 {
   "battery": {
-    "handling": "Kumpulkan di tempat khusus limbah B3. Jangan dibuang ke tempat sampah biasa. Serahkan ke pusat daur ulang atau pengepul limbah elektronik.",
-    "reuse_recommendations": [
-      "Daur ulang baterai untuk bahan industri",
-      "Gunakan kembali baterai rechargeable",
-      "Dimanfaatkan di proyek seni (non-fungsional)",
-      "Digunakan untuk edukasi cara kerja baterai",
-      "Dimanfaatkan sebagai koleksi (vintage baterai)",
-      "Dikirim ke pabrik daur ulang untuk pengambilan lithium"
-    ],
-    "articles": [
-      {
+      "handling": "Kumpulkan di tempat khusus limbah B3. Jangan dibuang ke tempat sampah biasa. Serahkan ke pusat daur ulang atau pengepul limbah elektronik.",
+      "reuse_recommendations": [
+        "Daur ulang baterai untuk bahan industri",
+        "Gunakan kembali baterai rechargeable",
+        "Dimanfaatkan di proyek seni (non-fungsional)",
+        "Digunakan untuk edukasi cara kerja baterai",
+        "Dimanfaatkan sebagai koleksi (vintage baterai)",
+        "Dikirim ke pabrik daur ulang untuk pengambilan lithium"
+      ],
+      "articles": [
+        {
         "title": "Battery recycling",
         "link": "https://en.wikipedia.org/wiki/Battery_recycling",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Recycling_lead_in_a_lead-acid_battery_recovery_facility.jpg",
         "description": "Artikel ini menjelaskan berbagai metode daur ulang baterai, termasuk baterai timbal-asam, nikel-kadmium, dan lithium-ion. Daur ulang baterai membantu mengurangi limbah berbahaya dan memungkinkan pemulihan bahan berharga seperti timbal dan litium."
-      },
-      {
+        },
+        {
         "title": "Cara Membuang Limbah Baterai agar Tidak Mencemari Lingkungan",
         "link": "https://www.tempo.co/lingkungan/cara-membuang-limbah-baterai-agar-tidak-mencemari-lingkungan-241585",
         "image": "https://statik.tempo.co/data/2022/05/11/id_1109156/1109156_720.jpg",
         "description": "Artikel ini menjelaskan bagaimana cara mendaur ulang baterai yang sudah tidak terpakai, agar tidak mencemari lingkungan dan mempengaruhi perubahan iklim."
-      },
-      {
+        },
+        {
         "title": "Baterai Bekas: Langkah-Langkah Penting dan Dampak Lingkungan",
         "link": "https://www.universaleco.id/blog/detail/baterai-bekas-langkah-langkah-penting-dan-dampak-lingkungan/384",
         "image": "https://www.universaleco.id/uploads/content/baterebekas1.jpeg",
         "description": "Artikel ini menjelaskan alasan mengapa penanganan sampah baterai penting, diikuti dengan langkah-langkah penanganan, serta dampaknya bagi lingkungan."
-      },
-      {
+        },
+        {
         "title": "Bahaya Limbah Baterai Bekas Jika Tidak Terkelola Dengan Baik",
         "link": "https://www.universaleco.id/blog/detail/bahaya-limbah-baterai-bekas-jika-tidak-terkelola-dengan-baik/141",
         "image": "https://www.universaleco.id/uploads/content/baterai_2.jpg",
         "description": "Artikel ini menjelaskan jenis-jenis baterai disertai dengan bahaya yang bisa ditimbulkan bila tidak dikelola dengan baik, diikuti cara penanganannya."
-      },
-      {
+        },
+        {
         "title": "5 Tips Membuang Baterai Bekas yang Aman Agar Tidak Mencemari Lingkungan",
         "link": "https://www.sukabumiupdate.com/life/121358/5-tips-membuang-baterai-bekas-yang-aman-agar-tidak-mencemari-lingkungan",
         "image": "https://media.sukabumiupdate.com/media/2023/06/12/1686547639_6486acb770207_ujtcVinf9xuHvbhTqNkt.webp",
         "description": "Berisi 5 cara yang membuang baterai bekar agar tidak mencemari lingkungan."
-      }
+        }
     ]
-  },
+    },
   "biological": {
-    "handling": "Kumpulkan dalam komposter atau wadah tertutup. Hindari mencampur dengan sampah anorganik. Cocok untuk dijadikan kompos.",
-    "reuse_recommendations": [
-      "Dibuat kompos untuk pupuk organik",
-      "Digunakan sebagai bahan biogas",
-      "Dijadikan pakan maggot",
-      "Digunakan untuk proyek kebun rumah",
-      "Dijadikan cairan eco-enzyme",
-      "Fermentasi untuk bioaktivator tanah"
-    ],
-    "articles": [
-      {
+      "handling": "Kumpulkan dalam komposter atau wadah tertutup. Hindari mencampur dengan sampah anorganik. Cocok untuk dijadikan kompos.",
+      "reuse_recommendations": [
+        "Dibuat kompos untuk pupuk organik",
+        "Digunakan sebagai bahan biogas",
+        "Dijadikan pakan maggot",
+        "Digunakan untuk proyek kebun rumah",
+        "Dijadikan cairan eco-enzyme",
+        "Fermentasi untuk bioaktivator tanah"
+      ],
+      "articles": [
+        {
         "title": "Membuat Kompos dari Sampah Organik",
         "link": "https://dlh.palangkaraya.go.id/membuat-kompos-dari-sampah-organik/",
         "image": "https://blogpictures.99.co/g-tips-and-ideas-how-to-make-compost-MAIN.jpg",
         "description": "Panduan lengkap tentang cara pembuatan kompos, serta identifikasi sampah yang bisa dan tidak bisa dijadikan kompos."
-      },
-      {
+        },
+        {
         "title": "Cara Pengolahan Sampah Organik yang Baik dan Benar",
         "link": "https://www.nestle.co.id/kisah/pengolahan-sampah-yang-baik-dan-benar",
         "image": "https://www.nestle.co.id/sites/g/files/pydnoa241/files/styles/story_header_image_mobile/public/2023-05/Cara%20pengolahan%20Sampah%20yang%20Baik%20dan%20Benar.jpg.webp?itok=OXhWkT1_",
         "description": "Artikel ini menjelaskan cara pengolahan sampah organik yang benar, pentingnya pengelolaan sampah organik, serta upaya perusahaan nestle dalam pengelolaan sampah."
-      },
-      {
+        },
+         {
         "title": "Cara Membuat Eco Enzyme, Cairan Serbaguna Beragam Manfaat",
         "link": "https://www.cnnindonesia.com/gaya-hidup/20220930154324-289-854798/cara-membuat-eco-enzyme-cairan-serbaguna-beragam-manfaat",
         "image": "https://akcdn.detik.net.id/community/media/visual/2022/09/30/ilustrasi-eco-enzyme_169.jpeg?w=620",
         "description": "Sampah organik tidak hanya bisa dimanfaatkan untuk membuat kompos saja, tetapi bisa dimanfaatkan untuk membuat eco enzym. Dalam artikel ini berisi penjelasan lagkah-langkah pembuatan eco enzym."
-      },
-      {
+        },
+        {
         "title": "Cara Praktis Membuat Bioaktivator Sendiri di Rumah",
         "link": "https://radarlambar.bacakoran.co/read/19528/cara-praktis-membuat-bioaktivator-sendiri-di-rumah",
         "image": "https://radarlambar.bacakoran.co/upload/2e1929c51e2a7d56c75ce1c67f32b79f.jpeg",
         "description": "Artikel ini berisi penjelasan tentang bioaktivator dan bagaimana cara pembuatannya secara lengkap. Bioaktivator sendiri merupakan mikroorganisme aktif yang mampu mempercepat proses penguraian dan fermentasi limbah organik."
-      },
-      {
+        },
+        {
         "title": "Pemanfaatan Maggot sebagai Biokonversi dan Mendorong Ekonomi Berkelanjutan di Indonesia",
         "link": "https://www.kompasiana.com/rilwanefendi9821/65a50ac1de948f60bc31ab93/pemanfaatan-maggot-sebagai-biokonversi-dan-mendorong-ekonomi-berkelanjutan-di-indonesia",
         "image": "https://assets.kompasiana.com/items/album/2024/01/15/desain-tanpa-judul-1-65a5090412d50f5aa3385693.png?t=o&v=740&x=416",
         "description": "Artikel ini berisi penjelasan manfaat maggot sebagai organisme yang bisa mengatasi permasalahan sampah organik, serta potensinya sebagai penggerak ekonomi."
-      }
+        }
     ]
-  },
+    },
   "cardboard": {
-    "type": "cardboard",
-    "handling": "Pastikan kering dan bersih. Lipat dan simpan di tempat kering. Jual ke pemulung atau drop point daur ulang.",
-    "reuse_recommendations": [
-      "Dibuat kerajinan tangan",
-      "Digunakan sebagai bahan dasar rak/pot tanaman",
-      "Dijadikan pelindung barang saat pengiriman",
-      "Digunakan sebagai media belajar anak (DIY)",
-      "Dicacah jadi bahan pulp kertas baru",
-      "Dijadikan isolator lantai atau pelapis"
-    ],
-    "articles": [
-      {
+      "type": "cardboard",
+      "handling": "Pastikan kering dan bersih. Lipat dan simpan di tempat kering. Jual ke pemulung atau drop point daur ulang.",
+      "reuse_recommendations": [
+        "Dibuat kerajinan tangan",
+        "Digunakan sebagai bahan dasar rak/pot tanaman",
+        "Dijadikan pelindung barang saat pengiriman",
+        "Digunakan sebagai media belajar anak (DIY)",
+        "Dicacah jadi bahan pulp kertas baru",
+        "Dijadikan isolator lantai atau pelapis"
+      ],
+      "articles": [
+        {
         "title": "Daur Ulang Kardus Bekas Tepat dan Aman",
         "link": "https://waste4change.com/blog/daur-ulang-kardus-bekas-tepat-dan-aman/",
         "image": "https://waste4change.com/blog/wp-content/uploads/image-235.png",
         "description": "Artikel ini berisi informasi umum tentang sampah kardus serta cara daur ulangnya melalui waste4change "
-      },
-      {
+        },
+        {
         "title": "Why do we Recycle Cardboard? The Benefits of Recycling Cardboard",
         "link": "https://www.slrecyclingltd.co.uk/why-do-we-recycle-cardboard-the-benefits-of-recycling-cardboard/",
         "image": "https://www.slrecyclingltd.co.uk/wp-content/uploads/2023/04/cardboard-waste-01.jpg",
         "description": "Panduan praktis tentang cara mendaur ulang kardus, termasuk tips keuntungan dalam mendaur ulang kardus."
-      },
-      {
+        },
+        {
         "title": "7 Kerajinan Tangan Dari Kardus Mudah, Murah, Awet!",
         "link": "https://www.ruparupa.com/blog/kerajinan-tangan-dari-kardus/",
         "image": "https://www.ruparupa.com/blog/wp-content/uploads/2020/04/Screen-Shot-2020-04-29-at-17.08.38.png?csrt=18270608490928223782",
         "description": "Kardus merupakan sampah yang dapat dimanfaatkan menjadi berbagai hal. Dalam artikel ini dijelaskan tujuh kerajinan tangan yang bisa dibuat dengan bahan kardus."
-      },
-      {
+        },
+        {
         "title": "4 Kreasi Unik Daur Ulang Sampah, Bisa Jadi Mainan hingga Tas Belanja",
         "link": "https://www.liputan6.com/global/read/5403864/4-kreasi-unik-daur-ulang-sampah-bisa-jadi-mainan-hingga-tas-belanja?page=2",
         "image": "https://cdn1-production-images-kly.akamaized.net/RwPXN7o1rK6nrhQhOTZh_QmhmHQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4583939/original/067413300_1695291334-photo-1596401057633-54a8fe8ef647.jpg",
         "description": "Mengurangi limbah kardus dapat dilakukan dengan mendaur ulang kardus bekas, Dalam artikel ini dijelaskan langkah-langkah pembuatan kreasi unik dengan bahan kardus."
-      },
-      {
+        },
+        {
         "title": "Kurangi Kantong Plastik, Supermarket Pakai Kardus Bekas",
         "link": "https://www.tempo.co/sains/kurangi-kantong-plastik-supermarket-pakai-kardus-bekas-783721",
         "image": "https://statik.tempo.co/data/2018/12/11/id_803289/803289_720.jpg",
         "description": "Artikel ini menjelaskan tentang kardus sebagai alternatif untuk mengurangi penggunaan sampah plastik."
-      }
+        }
     ]
-  },
+    },
   "clothes": {
-    "handling": "Pisahkan antara layak pakai dan tidak. Donasikan atau olah kembali. Cuci bersih sebelum diproses ulang.",
-    "reuse_recommendations": [
-      "Donasi ke orang membutuhkan",
-      "Dibuat kain lap atau keset",
-      "Didaur ulang jadi benang atau kain baru",
-      "Dibuat tas atau dompet handmade",
-      "Digunakan untuk proyek quilting atau patchwork",
-      "Dimanfaatkan sebagai bahan pengisi bantal/boneka"
-    ],
-    "articles": [
-      {
+      "handling": "Pisahkan antara layak pakai dan tidak. Donasikan atau olah kembali. Cuci bersih sebelum diproses ulang.",
+      "reuse_recommendations": [
+        "Donasi ke orang membutuhkan",
+        "Dibuat kain lap atau keset",
+        "Didaur ulang jadi benang atau kain baru",
+        "Dibuat tas atau dompet handmade",
+        "Digunakan untuk proyek quilting atau patchwork",
+        "Dimanfaatkan sebagai bahan pengisi bantal/boneka"
+      ],
+      "articles": [
+        {
         "title": "Kemana Buang Baju Yang Sudah Tidak Terpakai Lagi?",
         "link": "https://paprikaliving.com/waste-recycling/kemana-buang-baju-yang-sudah-tidak-terpakai-lagi/",
         "image": "https://paprikaliving.com/wp-content/uploads/2023/05/produk-hasil-daur-ulang-limbah-tekstil.jpg",
         "description": "Artikel ini memberikan panduan informasi tentang organisasi-organisasi yang menerima pembuatangan limbah pakaian."
-      },
-      {
+        },
+        {
         "title": "Fastbrick: Inovasi Pengolahan Limbah Pakaian Bekas Tak Layak Pakai Menjadi Bata Dekoratif",
         "link": "https://pindah.jatengprov.go.id/inovasi/detail/1493",
         "image": "https://pindah.jatengprov.go.id/foto/1687843621378-WhatsApp%20Image%202023-06-27%20at%2011.58.43.jpeg",
         "description": "Pemanfaatan limbah pakaian menjadi bata yang siap digunakan."
-      },
-      {
+        },
+        {
         "title": "How to Reduce Clothing Waste",
         "link": "https://www.businesswaste.co.uk/reduce-waste/how-to-reduce-clothing-waste/",
         "image": "https://www.businesswaste.co.uk/nitropack_static/idxKvtcnirKYQBmWonZQWWmtftYwKSMh/assets/images/optimized/rev-172c531/www.businesswaste.co.uk/wp-content/uploads/2023/12/clothes-waste-675x450.jpg",
         "description": "Strategi untuk mengurangi limbah fashion, baik di industri maupun rumahan, selain itu berisi juga penjelasan pentingnya mengatasi limbah pakaian."
-      },
-      {
+        },
+        {
         "title": "Minimalisir Sampah Tekstil Dengan Cara ini",
         "link": "https://sci.ui.ac.id/minimalisir-sampah-tekstil-dengan-cara-ini/",
         "image": "https://sci.ui.ac.id/wp-content/uploads/2024/08/WhatsApp-Image-2020-09-16-at-09.35.05-740x360-1-2.jpeg",
         "description": "Artikel ini menjelaskan tentang kiat-kiat yang dapat dilakukan untuk mengurangi limbang pakaian."
-      },
-      {
+        },
+        {
         "title": "Ilmuwan Temukan Cara Mendaur Ulang Pakaian Bekas ",
         "link": "https://www.kompas.id/baca/humaniora/2024/01/22/ilmuwan-temukan-cara-mendaur-ulang-pakaian-bekas",
         "image": "https://assetd.kompas.id/gMdlipR174I7gUTQ90FsjXUWWzA=/1280x796/filters:watermark(https://cdn-content.kompas.id/umum/kompas_main_logo.png,-16p,-13p,0)/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2021%2F12%2F13%2F0bd071fd-918c-4fc1-9bb1-5ff7e2ae9323_jpg.jpg",
         "description": "Artikel ini berisi berita tentang Para peneliti dari Aarhus University, Denmark, yang kini telah mengembangkan teknologi baru yang dapat memisahkan serat pada kain campuran sehingga memungkinkan pakain bekas dapat didaur ulang dengan mudah."
-      }
+        }
     ]
-  },
+    },
   "glass": {
-    "handling": "Cuci dan pisahkan berdasarkan warna. Simpan dalam wadah aman. Bawa ke bank sampah atau pusat daur ulang.",
-    "reuse_recommendations": [
-      "Dibuat vas bunga atau hiasan",
-      "Digunakan kembali sebagai wadah",
-      "Dicairkan untuk dibuat ulang menjadi botol",
-      "Dipakai sebagai bahan mozaik/kaca patri",
-      "Digunakan sebagai media tanam (hydroponik)",
-      "Dijadikan lampu hias DIY"
-    ],
-    "articles": [
-      {
+      "handling": "Cuci dan pisahkan berdasarkan warna. Simpan dalam wadah aman. Bawa ke bank sampah atau pusat daur ulang.",
+      "reuse_recommendations": [
+        "Dibuat vas bunga atau hiasan",
+        "Digunakan kembali sebagai wadah",
+        "Dicairkan untuk dibuat ulang menjadi botol",
+        "Dipakai sebagai bahan mozaik/kaca patri",
+        "Digunakan sebagai media tanam (hydroponik)",
+        "Dijadikan lampu hias DIY"
+      ],
+      "articles": [
+        {
         "title": "Glass recycling options",
         "link": "https://www.nibusinessinfo.co.uk/content/glass-recycling-options",
         "image": "https://www-leeglass-com.translate.goog/wp-content/uploads/2019/08/iStock-1081866910-2000x650.jpg?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs",
         "description": "Daur ulang kaca dapat digunakan dalam konstruksi jalan, pembuatan beton, dan sebagai media filtrasi. Kaca dapat didaur ulang berulang kali tanpa kehilangan kualitas."
-      },
-      {
+        },
+        {
         "title": "Daur Ulang Sampah Kaca: Bagaimana Cara, Potensi, dan Prosesnya?",
         "link": "https://liberty-society.com/id/blogs/blog-1/daur-ulang-sampah-kaca",
         "image": "https://liberty-society.com/cdn/shop/articles/DALL_E_2024-01-02_14.39.15_-_A_creative_upcycling_workshop_where_glass_bottles_are_being_transformed_into_artistic_home_decor._The_workshop_is_filled_with_colorful_glass_bottles_a.jpg?v=1704181280",
         "description": "Artikel ini berisi penjelasan tentang pengertian, manfaat, proses dar ulang, serta tantangan dalam daur ulang kaca"
-      },
-      {
+        },
+         {
         "title": "What to Do With Glass Waste: A Guide for Businesses",
         "link": "https://nanoiabaling.com/what-to-do-with-glass-waste/",
         "image": "https://nanoiabaling.com/wp-content/uploads/2024/10/glass.jpg",
         "description": "Limbah kaca dapat dikurangi dengan mengurangi penggunaan, menggunakan kembali botol dan toples kaca, serta mendaur ulang kaca untuk pembuatan produk baru."
-      },
-      {
+        },
+        {
         "title": "Tips Membuang Sampah Kaca, Jangan Langsung Dibuang Guys!",
         "link": "https://siapdarling.id/cerita-darling/tips-membuang-sampah-kaca-jangan-langsung-dibuang-guys",
         "image": "https://siapdarling.id/uploads/infodarling/banner_20221205101726_template_image_detail__(2).png",
         "description": "Artikel ini berisi penjelasan tentang bagaimana proses daur ulang kaca dan keuntungan yang didapatkan."
-      },
-      {
+        },
+        {
         "title": "Glass Waste Management",
         "link": "https://www.depts.ttu.edu/ehs/environmental/hazardous-waste/glass.php",
         "image": "https://cdn.prod.website-files.com/61bd967e96b8db6f6d455eb5/64437d16353df8e86c183658_sec-1%20img-1-p-800.png",
         "description": "Artikel ini berisi tips-tips yang bisa dilakukan untuk daur ulang sampah kaca secara baik dan benar."
-      }
+        }
     ]
-  },
+    },
   "metal": {
-    "handling": "Kumpulkan dan bersihkan. Pisahkan berdasarkan jenis (besi, alumunium, dll). Jual ke pengepul atau tukang loak.",
-    "reuse_recommendations": [
-      "Dilebur untuk bahan bangunan",
-      "Dibuat kerajinan logam",
-      "Digunakan sebagai bahan baku otomotif",
-      "Dijadikan alat rumah tangga baru",
-      "Dimanfaatkan untuk proyek edukasi (STEM)",
-      "Dijadikan dekorasi industrial"
-    ],
-    "articles": [
-      {
+      "handling": "Kumpulkan dan bersihkan. Pisahkan berdasarkan jenis (besi, alumunium, dll). Jual ke pengepul atau tukang loak.",
+      "reuse_recommendations": [
+        "Dilebur untuk bahan bangunan",
+        "Dibuat kerajinan logam",
+        "Digunakan sebagai bahan baku otomotif",
+        "Dijadikan alat rumah tangga baru",
+        "Dimanfaatkan untuk proyek edukasi (STEM)",
+        "Dijadikan dekorasi industrial"
+      ],
+      "articles": [
+        {
         "title": "Recycling and Reusing Scrap Metal",
         "link": "https://dec.vermont.gov/waste-management/solid/materials-mgmt/scrap-metal",
         "image": "https://dec.vermont.gov/sites/dec/files/wmp/SolidWaste/Images/scrap-metal-1.png",
         "description": "Scrap metal merupakan logam yang memiliki paing tidak 80% kandungan logam. Dalam artikel ini dijelaskan pengertian sampah logam dan cara menanganinya."
-      },
-      {
+        },
+        {
         "title": "Everything You Need To Know About Scrap Metal Recycling",
         "link": "https://www.cohenusa.com/blog/everything-you-need-to-know-about-scrap-metal-re",
         "image": "https://www.cohenusa.com/wp-content/uploads/2021/01/Busheling-1-1024x768-1.jpg",
         "description": "Artikel ini berisi informasi umum tentang sampah logam, mulai dari pengertian, jenis, proses daur ulang, higga keuntungan daur ulang logam."
-      },
-      {
+        },
+        {
         "title": "How 3 Types of Recycled Scrap Metal Are Used",
         "link": "https://www.brucemetal.com/how3-types-of-recycled-scrap-metal-are-used",
         "image": "https://lirp.cdn-website.com/da4b41de/dms3rep/multi/opt/ThinkstockPhotos-498859662.opt-1920w.jpg",
         "description": "Artikel ini membahas tiga jenis logam bekas yang paling umum didaur ulang, yaitu baja, tembaga, dan aluminium, serta bagaimana logam-logam ini digunakan kembali dalam industri dan kehidupan sehari-hari."
-      },
-      {
+        },
+        {
         "title": "How to Reduce Metal Waste",
         "link": "https://www.businesswaste.co.uk/reduce-waste/how-to-reduce-metal-waste/",
         "image": "https://www.businesswaste.co.uk/nitropack_static/idxKvtcnirKYQBmWonZQWWmtftYwKSMh/assets/images/optimized/rev-172c531/www.businesswaste.co.uk/wp-content/uploads/2023/12/reduce-metal-tin-cans.jpg",
         "description": "Mengurangi limbah logam dapat dilakukan dengan menggunakan kembali wadah aluminium, memilih produk dengan kemasan minimal, dan mendaur ulang logam bekas. Artikel ini membahas tentang cara mengurangi limbah logam, baik industri maupun rumahan."
-      },
-      {
+        },
+        {
         "title": "Mengintip Proses Daur Ulang Logam dan Hasil Akhirnya Sebagai Upaya Meminimalisir Sampah Teknologi",
         "link": "https://timesindonesia.co.id/peristiwa-daerah/348636/mengintip-proses-daur-ulang-logam-dan-hasil-akhirnya-sebagai-upaya-meminimalisir-sampah-teknologi",
         "image": "https://cdn.timesmedia.co.id/images/2021/05/23/sampah-logam.jpg",
         "description": "Artikel ini membahas secara rinci tahapan daur ulang logam sebagai solusi untuk mengurangi limbah teknologi yang terus meningkat."
-      }
+        }
     ]
-  },
+    },
   "paper": {
-    "handling": "Pisahkan dari sampah basah. Keringkan dan tumpuk rapi. Serahkan ke bank sampah atau pengepul.",
-    "reuse_recommendations": [
-      "Dibuat kertas daur ulang",
-      "Dijadikan catatan atau memo",
-      "Digunakan untuk origami atau kerajinan",
-      "Dijadikan bahan bakar alternatif",
-      "Dibuat pulp untuk bahan bangunan ringan",
-      "Dipakai sebagai pembungkus atau pelindung"
-    ],
-    "articles": [
-      {
+      "handling": "Pisahkan dari sampah basah. Keringkan dan tumpuk rapi. Serahkan ke bank sampah atau pengepul.",
+      "reuse_recommendations": [
+        "Dibuat kertas daur ulang",
+        "Dijadikan catatan atau memo",
+        "Digunakan untuk origami atau kerajinan",
+        "Dijadikan bahan bakar alternatif",
+        "Dibuat pulp untuk bahan bangunan ringan",
+        "Dipakai sebagai pembungkus atau pelindung"
+      ],
+      "articles": [
+        {
         "title": "15 Kerajinan dari Limbah Kertas dengan Nilai Ekonomi Tinggi",
         "link": "https://finance.detik.com/solusiukm/d-6348494/15-kerajinan-dari-limbah-kertas-dengan-nilai-ekonomi-tinggi",
         "image": "https://akcdn.detik.net.id/community/media/visual/2022/10/14/limbah-kertas-daur-ulang_169.jpeg?w=700&q=90",
         "description": "Artikel ini membahas 15 ide kerajikan yang bernilai jual dari kertas. Disertai dengan estimasi harga penjualan serta sekilas ide jualan yang dapat dikembangkan."
-      },
-      {
+        },
+        {
         "title": "10 Innovative Uses for Recycled Paper Waste",
         "link": "https://centralwaste-liverpool.co.uk/10-innovative-uses-for-recycled-paper-waste/",
         "image": "https://centralwaste-liverpool.co.uk/wp-content/uploads/2024/05/paper_waste-1-840x562.jpg",
         "description": "Ide inovatif untuk menggunakan kertas daur ulang, termasuk pot tanaman biodegradable, isolasi rumah, dan bahan bakar alternatif."
-      },
-      {
+        },
+        {
         "title": "The Paper Recycling Process Explained ",
         "link": "https://www.rubicon.com/blog/paper-recycling-process/",
         "image": "https://www.rubicon.com/wp-content/uploads/2022/01/newspaper-bundles-for-paper-recycling.jpg",
         "description": "Artikel ini membahas proses daur ulang kertas secara lengkap, dari proses pengumpulan, penyortiran, penghancuran, penghilangan tinta, dan pembentukan ulang menjadi produk kertas baru."
-      },
-      {
+        },
+        {
         "title": "Paper Waste: Why It Matters & How to Reduce It",
         "link": "https://www.reelpaper.com/blogs/reel-talk/paper-waste-why-it-matters-how-to-reduce-it",
         "image": "https://www.reelpaper.com/cdn/shop/articles/paper-waste-why-it-matters-how-to-reduce-it-the-reel-talk-313906_1024x1024.jpg?v=1701927596",
         "description": "Artikel ini membahas dampak signifikan limbah kertas terhadap lingkungan dan langkah-langkah praktis untuk menguranginya. Caranya adalah mencetak hanya saat diperlukan, menggunakan kertas daur ulang, dan mendaur ulang kertas bekas."
-      },
-      {
+        },
+        {
         "title": "Limbah Kertas Menggunung? Ini Dia Tips Memanfaatkannya",
         "link": "https://www.universaleco.id/blog/detail/limbah-kertas/7",
         "image": "https://www.universaleco.id/uploads/content/limbah-kertas.jpg",
         "description": "Artikel ini membahas pentingnya pengelolaan limbah kertas melalui pendekatan 3R (Reduce, Reuse, Recycle) untuk mengurangi dampak lingkungan dan menciptakan nilai ekonomi dari limbah tersebut."
-      }
+        }
     ]
-  },
+    },
   "plastic": {
-    "handling": "Bersihkan dan pisahkan berdasarkan jenis. Hindari membakar sampah plastik. Serahkan ke pengepul atau daur ulang lokal.",
-    "reuse_recommendations": [
-      "Dibuat paving block dari limbah plastik",
-      "Digunakan kembali sebagai wadah",
-      "Dibuat kerajinan (dompet, tas, pot)",
-      "Dicacah untuk jadi bahan resin",
-      "Dijadikan bahan bakar alternatif (pyrolysis)",
-      "Dimanfaatkan dalam proyek ecobrick"
-    ],
-    "articles": [
-      {
+      "handling": "Bersihkan dan pisahkan berdasarkan jenis. Hindari membakar sampah plastik. Serahkan ke pengepul atau daur ulang lokal.",
+      "reuse_recommendations": [
+        "Dibuat paving block dari limbah plastik",
+        "Digunakan kembali sebagai wadah",
+        "Dibuat kerajinan (dompet, tas, pot)",
+        "Dicacah untuk jadi bahan resin",
+        "Dijadikan bahan bakar alternatif (pyrolysis)",
+        "Dimanfaatkan dalam proyek ecobrick"
+      ],
+      "articles": [
+        {
         "title": "12 Kerajinan dari Sampah Plastik yang Mudah Dibuat dan Bermanfaat!",
         "link": "https://www.inilah.com/kerajinan-dari-sampah-plastik-mudah-bermanfaat",
         "image": "https://c.inilah.com/reborn/2023/08/1/0608_045301_4c15_inilah_com_a541f03e54.jpg",
         "description": "Artikel ini menyajikan berbagai ide kreatif untuk mengolah sampah plastik menjadi barang-barang fungsional dan bernilai guna. Artikel ini bertujuan untuk mendorong masyarakat dalam mengurangi limbah plastik melalui kegiatan daur ulang yang sederhana namun efektif."
-      },
-      {
+        },
+        {
         "title": "Building road with plastic waste - a step towards sustainable development",
         "link": "https://timesofindia.indiatimes.com/city/ranchi/building-road-with-plastic-waste-a-step-towards-sustainable-development/articleshow/121630502.cms",
         "image": "https://static.toiimg.com/thumb/msid-121630501,imgsize-46158,width-400,height-225,resizemode-72/121630501.jpg",
         "description": "Menggunakan limbah plastik dalam konstruksi jalan meningkatkan daya tahan dan mengurangi limbah, meskipun ada kekhawatiran tentang polusi mikroplastik."
-      },
-      {
+        },
+        {
         "title": "Pengolahan Sampah Plastik Menjadi BBM, Alternatif Mengatasi Permasalahan Sampah Plastik dan Ketahanan Energi",
         "link": "https://babelprov.go.id/artikel_detil/pengolahan-sampah-plastik-menjadi-bbm-alternatif-mengatasi-permasalahan-sampah-plastik-dan-ketahanan",
         "image": "https://citarumharum.jabarprov.go.id/eusina/uploads/2021/11/12313-730x420px.jpg",
         "description": "Artikel ini membahas solusi inovatif dalam mengatasi permasalahan sampah plastik melalui konversi menjadi bahan bakar minyak (BBM) alternatif."
-      },
-      {
+        },
+        {
         "title": "Reuse of Plastic Waste",
         "link": "https://atriainnovation.com/en/blog/reuse-of-plastic-waste/",
         "image": "https://atriainnovation.com/uploads/2023/11/Reutilizacion-de-plasticos-3.jpg",
         "description": "Limbah plastik dapat dimanfaatkan kembali sebagai bahan dasar untuk produk baru, mengurangi kebutuhan akan bahan baku baru dan dampak lingkungan."
-      },
-      {
+        },
+        {
         "title": "Tahapan Proses Daur Ulang Plastik",
         "link": "https://zerowaste.id/zero-waste-lifestyle/proses-daur-ulang-plastik/",
         "image": "https://zerowaste.id/wp-content/uploads/2022/12/pengolahan-sampah-plastik.jpeg",
         "description": "Artikel ini membahas enam langkah utama dalam proses daur ulang plastik, serta menekankan pentingnya pencegahan penggunaan plastik sekali pakai sebagai langkah awal dalam mengurangi dampak lingkungan."
-      }
+        }
     ]
-  },
+    },
   "shoes": {
-    "handling": "Pisahkan sepatu yang masih layak pakai dari yang benar-benar rusak. Bersihkan terlebih dahulu sebelum disumbangkan atau didaur ulang. Untuk sepatu yang sudah tidak bisa digunakan, cari tempat daur ulang tekstil atau program pengumpulan sepatu bekas.",
-    "reuse_recommendations": [
-      "Donasikan ke organisasi amal atau program bantuan bencana.",
-      "Ubah menjadi pot tanaman gantung atau wadah kreatif di rumah.",
-      "Gunakan sebagai dekorasi atau bahan kerajinan daur ulang."
-    ],
-    "articles": [
-      {
+      "handling": "Pisahkan sepatu yang masih layak pakai dari yang benar-benar rusak. Bersihkan terlebih dahulu sebelum disumbangkan atau didaur ulang. Untuk sepatu yang sudah tidak bisa digunakan, cari tempat daur ulang tekstil atau program pengumpulan sepatu bekas.",
+      "reuse_recommendations": [
+        "Donasikan ke organisasi amal atau program bantuan bencana.",
+        "Ubah menjadi pot tanaman gantung atau wadah kreatif di rumah.",
+        "Gunakan sebagai dekorasi atau bahan kerajinan daur ulang."
+      ],
+      "articles": [
+        {
         "title": "Your Guide to Recycling Sneakers, Sandals, and Other Shoes",
         "link": "https://www.treehugger.com/shoe-recycling-guide-5194664",
         "image": "https://www.treehugger.com/thmb/91rnCmCz72cw5AEWQO_mZBBWLkY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/footwear-decisions-127516135-19993d93b0a24017a5be3c90571b95ea.jpg",
         "description": "Artikel ini membahas pentingnya mendaur ulang sepatu karena sebagian besar sepatu berakhir di tempat pembuangan akhir dan tidak mudah terurai. Artikel ini menjelaskan berbagai opsi daur ulang untuk sepatu, mulai dari program gratis seperti Nike Grind yang mengubah sepatu olahraga menjadi material konstruksi, hingga layanan berbayar seperti TerraCycle yang menerima hampir semua jenis sepatu."
-      },
-      {
+        },
+        {
         "title": "Shoe Recycling: 5 Ways to Skip the Landfill",
         "link": "https://www.thecommons.earth/blog/5-ways-to-recycle-your-shoes",
         "image": "https://cdn.prod.website-files.com/65e09ff4652e7d3ec56c570f/65f404df2b810d04eb7a62fa_655d79e83b02bb4f34a95bce_nike-running-shoes-vintage.jpeg",
         "description": "Artikel ini menjelaskan lima metode praktis untuk mendaur ulang sepatu lama, mulai dari program trade-in, donasi, drop-off di kotak khusus, hingga pengembalian ke merek seperti Nike dan Timberland, dengan tujuan mengurangi sampah plastik dan tekstil di tempat pembuangan akhir."
-      },
-      {
+        },
+        {
         "title": "Mendaur Ulang Sepatu Safety, Langkah Menuju Lingkungan Berkelanjutan",
         "link": "https://www.safetyranger.co.id/mendaur-ulang-sepatu-safety-langkah-menuju-lingkungan-berkelanjutan",
         "image": "https://www.safetyranger.co.id/uploads/blog/202307/img_blog_2000x800_64a7e2813fa9f3-40552373-83237168.jpg",
         "description": "Artikel ini menekankan pentingnya mendaur ulang sepatu safety karena terbuat dari bahan kompleks seperti kulit, karet, PU/TRP, dan baja—dengan tujuan mengurangi limbah dan kebutuhan ekstraksi bahan baku serta energi produksi."
-      },
-      {
+        },
+        {
         "title": "Can You Recycle Shoes? How to Do it Correctly & Alternatives",
         "link": "https://soles4souls.org/how-to-recycle-shoes",
         "image": "https://soles4souls.org/wp-content/uploads/2024/09/how-to-recycle-shoes-blog-cover-photo-1024x682.webp",
         "description": "Artikel ini menjelaskan cara daur ulang sepatu lama—mulai dari pembersihan, pemisahan bagian yang sulit didaur ulang, hingga pengepakan dan pendonoran melalui program seperti Nike, TerraCycle, dan Soles4Souls sendiri—untuk mencegah akumulasi sampah sepatu di tempat pembuangan."
-      },
-      {
+        },
+        {
         "title": "Shoe Recycling Guide: Recycle Your Footwear Responsibly",
         "link": "https://greencitizen.com/blog/shoe-recycling/",
         "image": "https://greencitizen.com/wp-content/uploads/2024/11/Shoe-Recycling.jpg",
         "description": "Artikel ini menguraikan beragam cara untuk menghindarkan sepatu dari tempat pembuangan — mulai dari menyumbang kepada yayasan seperti Goodwill dan Soles4Souls, hingga menggunakan program daur ulang spesifik seperti Nike Grind atau TerraCycle."
-      }
+        }
     ]
-  },
+    },
   "trash": {
-    "handling": "Kumpulkan dalam kantong tertutup. Pisahkan sampah berbahaya. Buang di TPS atau fasilitas pengelolaan akhir. Apabila sampah medis, pisahkan sampah dan taruh di kantong dengan warna mencolok.",
-    "reuse_recommendations": [
-      "Diminimalkan produksinya (reduce)",
-      "Diperiksa kembali untuk barang yang masih bisa didaur ulang",
-      "Dibuat karya seni",
-      "Dimanfaatkan sebagai bahan penelitian pengelolaan sampah",
-      "Dijadikan pengisi jalan/tanggul (rekayasa sipil)",
-      "Dilakukan pengolahan RDF (refuse-derived fuel)"
-    ],
-    "articles": [
-      {
+      "handling": "Kumpulkan dalam kantong tertutup. Pisahkan sampah berbahaya. Buang di TPS atau fasilitas pengelolaan akhir. Apabila sampah medis, pisahkan sampah dan taruh di kantong dengan warna mencolok.",
+      "reuse_recommendations": [
+        "Diminimalkan produksinya (reduce)",
+        "Diperiksa kembali untuk barang yang masih bisa didaur ulang",
+        "Dibuat karya seni",
+        "Dimanfaatkan sebagai bahan penelitian pengelolaan sampah",
+        "Dijadikan pengisi jalan/tanggul (rekayasa sipil)",
+        "Dilakukan pengolahan RDF (refuse-derived fuel)"
+      ],
+      "articles": [
+        {
         "title": "Mengurangi Sampah Popok & Mengolahnya Menjadi Pupuk",
         "link": "https://zerowaste.id/zero-waste-lifestyle/mengurangi-sampah-popok-mengolahnya-menjadi-pupuk/",
         "image": "https://zerowaste.id/wp-content/uploads/2022/12/83424332_589700561881837_5965695646806940304_n.png",
         "description": "Artikel ini membahas tentang bagaimana cara menangani sampah popok sehingga tidak mencemari lingkungan, baik dengan cara mengurangi hingga menyalurkannya kepada organisasi daur ulang sampah."
-      },
-      {
+        },
+        {
         "title": "Jenis-Jenis Limbah Medis dan Cara Tepat Mengatasinya",
         "link": "https://www.safetysign.co.id/news/Jenis-Jenis-Limbah-Medis-dan-Cara-Tepat-Mengatasinya",
         "image": "https://www.safetysign.co.id/image-upload/news-Jenis-Jenis-Limbah-Medis-dan-Cara-Tepat-Mengatasinya-500.jpg",
         "description": "Artikel ini membahas tentang jenis-jenis limbah medis dan cara tepat mengatasinya. Artikel ini juga membahas cara umum menangani sampah medis dan cara mengelola limbah medis menurut Kemenkes."
-      },
-      {
+        },
+        {
         "title": "Sampah Diapers dan Pembalut Wanita pun Bisa Jadi Media Tanam",
         "link": "https://jatengprov.go.id/beritaopd/sampah-diapers-dan-pembalut-wanita-pun-bisa-jadi-media-tanam/",
         "image": "https://jatengprov.go.id/wp-content/uploads/2019/10/IMG_20191003_200625.jpg",
         "description": "Artikel ini membahas tentang potensi pengolahan sampah popok sekali pakai (diapers) dan pembalut wanita menjadi media tanam dan pupuk. Artikel ini juga menjelaskan cara mengolah gel dari diapers dan pembalut menjadi media tanam dan pupuk cair dengan mencampurnya dengan air kelapa dan EM4, serta mengedukasi masyarakat untuk tidak membuang sampah tersebut sembarangan."
-      },
-      {
+        },
+        {
         "title": "Pengelolaan Limbah Rumah Sakit dan Jenisnya",
         "link": "https://mutucertification.com/pengelolaan-jenis-limbah-rumah-sakit/",
         "image": "https://mutucertification.com/wp-content/uploads/2023/04/Cara-Pengelolaan-Limbah-Rumah-Sakit-dan-Jenisnya.jpg",
         "description": "Artikel ini membahas tentang pengelolaan dan jenis-jenis limbah rumah sakit, yang dapat berupa limbah medis atau non-medis. Artikel ini juga menguraikan berbagai jenis limbah medis dan merinci prosedur pengelolaan limbah yang direkomendasikan."
-      },
-      {
+        },
+        {
         "title": "6 easy ways to stop creating unnecessary trash at home",
         "link": "https://www.homesandgardens.com/solved/ways-to-stop-unnecessary-trash",
         "image": "https://cdn.mos.cms.futurecdn.net/PrBdAYL5Wr3KwWZ2r73w68-1024-80.jpg.webp",
         "description": "Artike ini membahas enam cara mudah untuk mengurangi sampah rumah tangga yang tidak perlu dan dampak lingkungan penerapan cara tersebut."
-      }
+        }
     ]
-  }
+    }
 }

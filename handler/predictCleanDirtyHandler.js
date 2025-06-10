@@ -6,10 +6,7 @@ async function predictCleanDirtyHandler(request, h) {
     const file = request.payload && request.payload.image;
     if (!file) {
       return h
-        .response({
-          success: false,
-          message: "Image file is required (field name: image)",
-        })
+        .response({ success: false, message: "Image file is required (field name: image)" })
         .code(400);
     }
     const buffer = file._data || file;
@@ -21,14 +18,16 @@ async function predictCleanDirtyHandler(request, h) {
     const prediction = model.predict(inputTensor);
     const score = prediction.dataSync()[0];
     let label;
-    if (score > 0.80) {
+    if (score > 0.6) {
       label = "kotor";
-    } else {
+    } 
+    else if (score < 0.4) {
       label = "bersih";
     }
-    return h
-      .response({ success: true, predictedLabel: label, scores: score })
-      .code(200);
+    else {
+      label = "tidak dapat diidentifikasi";
+    }
+    return h.response({ success: true, predictedLabel: label, scores: score }).code(200);
   } catch (err) {
     return h.response({ success: false, message: err.message }).code(400);
   }

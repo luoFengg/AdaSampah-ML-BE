@@ -1,8 +1,4 @@
-const {
-  loadModel,
-  getModelCleanDirty,
-  getModelEducation,
-} = require("./modelLoader");
+const { loadModel, getModelCleanDirty, getModelEducation } = require("./modelLoader");
 const predictCleanDirtyHandler = require("./predictCleanDirtyHandler");
 const predictEdukasiHandler = require("./predictEdukasiHandler");
 

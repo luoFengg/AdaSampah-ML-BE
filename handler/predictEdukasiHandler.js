@@ -7,25 +7,14 @@ async function predictEdukasiHandler(request, h) {
     const file = request.payload && request.payload.image;
     if (!file) {
       return h
-        .response({
-          success: false,
-          message: "Image file is required (field name: image)",
-        })
+        .response({ success: false, message: "Image file is required (field name: image)" })
         .code(400);
     }
-    const readEdukasiLabel = fs.readFileSync(
-      "./model/edukasi/label.txt",
-      "utf8"
-    );
-    const labelEdukasi = readEdukasiLabel
-      .split("\n")
-      .map((line) => line.trim());
+    const readEdukasiLabel = fs.readFileSync("./model/edukasi/label.txt", "utf8");
+    const labelEdukasi = readEdukasiLabel.split("\n").map((line) => line.trim());
     const readDetail = fs.readFileSync("./model/edukasi/detail.json", "utf8");
     const jsonDetail = JSON.parse(readDetail);
-    const readLabelIndo = fs.readFileSync(
-      "./model/edukasi/label_indo.json",
-      "utf8"
-    );
+    const readLabelIndo = fs.readFileSync("./model/edukasi/label_indo.json", "utf8");
     const jsonLabelIndo = JSON.parse(readLabelIndo);
     const buffer = file._data || file;
     let imageTensor = tf.node.decodeImage(buffer, 3);
